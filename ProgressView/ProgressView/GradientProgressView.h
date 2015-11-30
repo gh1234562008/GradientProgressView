@@ -1,9 +1,9 @@
 //
-//  HMMDCircularProgressView.h
-//  MiBand
+//  GradientProgressView.h
+//  ProgressView
 //
-//  Created by dingdaojun on 15/7/1.
-//  Copyright (c) 2015年 chenee. All rights reserved.
+//  Created by sxiaojian on 15/10/29.
+//  Copyright © 2015年 sxiaojian. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
